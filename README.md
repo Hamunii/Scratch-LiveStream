@@ -1,4 +1,4 @@
-# Scratch Live Stream Project
+# Scratch Live Stream Project v1.0
 This is a scratch project designed to be played on https://turbowarp.org. This project is not allowed on the scratch website because it breaks a lot of rules.
 
 HOW TO PLAY THE PROJECT: 
