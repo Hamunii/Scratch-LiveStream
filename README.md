@@ -12,6 +12,7 @@ HOW TO PLAY THE PROJECT:
 
 Please note: cloud variables change slowly, and becuase of that, the FPS of the recorder can't be too high or it will just mess up cloud variable updates.
 Also, white color takes more space in the cloud vairables, and due to that the cloud variables update even slower. Your FPS will be forced to drop when cloud variable size is high to avoid messing up the cloud variable updates.
+When starting the project and you start recording, it will lag the most, because it has not added all those new colors it is scanning to it's color storage. The colors first added to the storage are the fastest to scan, so the background changes, I suggest you press the green flag again to reset the color storage.
 
 Credits:
 My whole project was based off of https://scratch.mit.edu/projects/424284621/ that project. So thanks to @SpaceBoy234 on scratch for the image scanner!
