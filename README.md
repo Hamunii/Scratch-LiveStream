@@ -1,5 +1,5 @@
 # Scratch Live Stream Project v1.0
-WARNING: You shall never share the link to your project!
+WARNING: You should never share a link to your project!
 
 This is a scratch project designed to be played on https://turbowarp.org. This project is not allowed on the scratch website because it breaks a lot of rules.
 
